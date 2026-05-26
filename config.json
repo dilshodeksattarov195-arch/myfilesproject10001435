@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configcecrypt",
+        "uuid": 5531925,
+        "checksum": "xe4mli"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
